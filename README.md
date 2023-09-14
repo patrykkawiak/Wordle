@@ -1,5 +1,5 @@
 
-# 2048 GAME
+# Wordle Clone 
 
 Clone of Wordle Game
 
